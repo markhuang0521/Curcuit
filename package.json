@@ -1,0 +1,19 @@
+{
+  "name": "curcuit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhuang0521/curcuit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markhuang0521/curcuit/issues"
+  },
+  "homepage": "https://github.com/markhuang0521/curcuit#readme"
+}
